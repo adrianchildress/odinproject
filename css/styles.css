@@ -3,3 +3,15 @@ body {
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+p {
+    background-color: #faebd7;
+    font-weight: bold;
+}
+
+li {
+    display: block;
+    background-color: #ceeee4;
+    list-style-type: disc;
+    width: 50%;
+}
